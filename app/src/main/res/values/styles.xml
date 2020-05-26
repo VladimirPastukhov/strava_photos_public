@@ -1,0 +1,10 @@
+<resources>
+    <style name="LikeStrava" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/stravaBrandColor_wrong</item>
+        <item name="colorPrimaryDark">@color/stravaBrandColor</item>
+        <item name="colorAccent">@color/stravaBrandColor_wrong</item>
+        <item name="colorButtonNormal">@color/stravaBrandColor_wrong</item>
+        <item name="android:navigationBarColor">@color/stravaBrandColor_wrong</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+</resources>
